@@ -3,10 +3,10 @@
 ### You can create the design that you want for your Website using Canva.
 
 In this project, I wanted to show you how you can quickly and easily create a website using Canva. 
-What you need to do is very simple. Visit the Canva website and click "Create Design". 
+What you need to do is very simple. Visit the Canva website and click "Create a design". 
 Make your design stand out by adding the shapes, colors and images you want. 
 Also deal with details like alignment, fonts and you get a design that people will love. 
-There's only one thing left to do. Click "Share" at the top right of the site and select "Website". 
+There's only one thing left to do. Click "Publish" at the top right of the site and select "Website". 
 Congratulations, Your Website is ready for you to share with your friends or other people. 
 Also remember that the website is not functional because there is no code.
 
