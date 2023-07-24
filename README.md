@@ -11,8 +11,7 @@ Congratulations, Your Website is ready for you to share with your friends or oth
 Also remember that the website is not functional because there is no code.
 
 ### ***Website Link***
-https://www.canva.com/design/DAFpiYIFWoQ/TqhoRwqj8Bv8Ek5AxkycQw/view?website#4
----
+##### https://www.canva.com/design/DAFpiYIFWoQ/TqhoRwqj8Bv8Ek5AxkycQw/view?website#4
 
 ### ***Website Pages***
 <img src="https://github.com/ysnhasan1/Creating-a-Website-Using-Canva/assets/102024926/b4b06e64-9bf9-4cf8-b858-0020a2823f97" height="400"><br />
@@ -22,8 +21,4 @@ https://www.canva.com/design/DAFpiYIFWoQ/TqhoRwqj8Bv8Ek5AxkycQw/view?website#4
 ---
 
 <img src="https://github.com/ysnhasan1/Creating-a-Website-Using-Canva/assets/102024926/1f45fe1d-7b62-4b0c-a38e-f5f46d89a161" height="400"><br />
----
-
-### ***Published Website***
-<img src="" height="450" width="300"><br />
 ---
