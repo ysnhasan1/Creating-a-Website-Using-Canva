@@ -16,8 +16,10 @@ Also remember that the website is not functional because there is no code.
 https://www.canva.com/design/DAFpiYIFWoQ/TqhoRwqj8Bv8Ek5AxkycQw/view?website#4
 
 ## Website Pages
+<div align="center">
 <img src="https://github.com/ysnhasan1/Creating-a-Website-Using-Canva/assets/102024926/b4b06e64-9bf9-4cf8-b858-0020a2823f97" height="300"><br />
 
 <img src="https://github.com/ysnhasan1/Creating-a-Website-Using-Canva/assets/102024926/408dd007-d3af-4b3d-af16-85bbd0c77095" height="300"><br />
 
 <img src="https://github.com/ysnhasan1/Creating-a-Website-Using-Canva/assets/102024926/1f45fe1d-7b62-4b0c-a38e-f5f46d89a161" height="300">
+</div>
